@@ -1,7 +1,7 @@
-# CryptoTrader v2 — Professional Crypto Terminal
+<img width="1199" height="240" alt="image" src="https://github.com/user-attachments/assets/5cbd6a85-a3d1-4fd5-8033-f6cb97c854c8" />
 
-A production-grade, real-time cryptocurrency trading terminal built with FastAPI and vanilla JS. Inspired by TradingView and Zerodha Kite.
 
+A production-grade, real-time cryptocurrency trading terminal built with FastAPI and vanilla JS. 
 ---
 
 ## Quickstart (one command)
@@ -13,6 +13,13 @@ python start.py
 The launcher automatically creates a virtual environment, installs all dependencies, and opens the app in your browser. No manual setup needed.
 
 ---
+
+<img width="1910" height="867" alt="image" src="https://github.com/user-attachments/assets/d3b916e1-5c28-4cc1-b19f-4fb813255c96" />
+
+<img width="1900" height="859" alt="image" src="https://github.com/user-attachments/assets/7836896a-463b-4b23-91be-ac7939564ec9" />
+
+<img width="1915" height="837" alt="image" src="https://github.com/user-attachments/assets/210d92c4-6974-4d12-9eb3-9aa4aa801e81" />
+
 
 ## Features
 
@@ -32,6 +39,12 @@ The launcher automatically creates a virtual environment, installs all dependenc
 
 ---
 
+## AI Assistance
+
+<img width="405" height="826" alt="image" src="https://github.com/user-attachments/assets/8a904c2c-eb1b-47aa-8026-c338c7b41b7f" />
+
+
+---
 ## Project Structure
 
 ```
