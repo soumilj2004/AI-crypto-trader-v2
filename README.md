@@ -1,7 +1,7 @@
 <img width="1199" height="240" alt="image" src="https://github.com/user-attachments/assets/5cbd6a85-a3d1-4fd5-8033-f6cb97c854c8" />
 
 
-A production-grade, real-time cryptocurrency trading terminal built with FastAPI and vanilla JS. 
+A production-grade, real-time cryptocurrency trading terminal built with FastAPI and vanilla JS with localized LLM assistance. 
 ---
 
 ## Quickstart (one command)
