@@ -45,6 +45,9 @@ The launcher automatically creates a virtual environment, installs all dependenc
 
 
 ---
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/dddb762c-fbf6-484c-9b2f-b09dfa368b03" />
+
+---
 ## Project Structure
 
 ```
